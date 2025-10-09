@@ -1,4 +1,6 @@
 {
     "python.defaultInterpreterPath": "C:\\Users\\booki\\anaconda3\\envs\\pyenv311\\python.exe",
-    "python.terminal.activateEnvironment": true
+    "python.terminal.activateEnvironment": true, 
+    "python.analysis.extraPaths": ["./"]
+
 }
